@@ -62,11 +62,8 @@ I'm a passionate **Full Stack Developer** with 2+ years of experience crafting s
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MounikaMullukuntla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mounika-m-1003sv)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-mounika-mullukuntla.vercel.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MounikaMullukuntla)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@MounikaMullukuntla)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/MounikaMullukuntla)
 
 </div>
 
@@ -77,10 +74,8 @@ I'm a passionate **Full Stack Developer** with 2+ years of experience crafting s
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MounikaMullukuntla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Mounika's GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MounikaMullukuntla&theme=tokyonight&hide_border=true" alt="Mounika's Streak Stats" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MounikaMullukuntla&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mounika's Top Languages" width="48%" />
 
 </div>
 
