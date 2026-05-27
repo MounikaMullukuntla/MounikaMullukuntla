@@ -98,7 +98,7 @@ I'm a passionate **Full Stack Developer** with 2+ years of experience crafting s
 
 I'm always open to exciting collaborations, new opportunities, and great conversations! Whether you have a project in mind, a question about code, or just want to say hi — feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MounikaMullukuntla)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mounika-m-1003sv)
 [![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-mounika-mullukuntla.vercel.app/)
 
 ---
