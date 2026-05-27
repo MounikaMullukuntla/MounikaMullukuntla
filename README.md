@@ -23,7 +23,6 @@ I'm a passionate **Full Stack Developer** with 2+ years of experience crafting s
 - 🐍 Also comfortable in the **Python** ecosystem for backend and automation
 - 🌱 Always learning, always growing — currently exploring cloud & DevOps practices
 - 📝 I share my knowledge through **YouTube**, **Medium**, and **Instagram**
-- ⚡ Fun fact: I debug with console.log and I'm not ashamed of it 😄
 - 💬 Ask me about anything web dev — I love a good tech conversation!
 - 🎯 Goal: Build products that make a real difference
 
