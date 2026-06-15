@@ -19,12 +19,12 @@
 
 I'm a passionate **Full Stack Developer** with 2+ years of experience crafting seamless digital experiences — from sleek, responsive frontends to robust backend systems. I love turning complex problems into simple, beautiful solutions.
 
-- 🔭 Currently working on exciting full-stack projects with **Angular**, **React**, and **Node.js**
-- 🐍 Also comfortable in the **Python** ecosystem for backend and automation
-- 🌱 Always learning, always growing and currently exploring cloud & DevOps practices
-- 📝 I share my knowledge through **YouTube**, **Medium**, and **Instagram**
-- 💬 Ask me about anything web dev — I love a good tech conversation!
-- 🎯 Goal: Build products that make a real difference
+- Currently working on exciting full-stack projects with **Angular**, **React**, and **Node.js**
+- Also comfortable in the **Python** ecosystem for backend and automation
+- Always learning, always growing and currently exploring cloud & DevOps practices
+- I share my knowledge through **YouTube**, **Medium**, and **Instagram**
+- Ask me about anything web dev — I love a good tech conversation!
+- Goal: Build products that make a real difference
 
 ---
 
